@@ -1,34 +1,6 @@
 # Rewriting Project Claw Code
 
-<p align="center">
-  <strong>⭐ The fastest repo in history to surpass 50K stars, reaching the milestone in just 2 hours after publication ⭐</strong>
-</p>
-
-<p align="center">
-  <a href="https://star-history.com/#ultraworkers/claw-code&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ultraworkers/claw-code&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ultraworkers/claw-code&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ultraworkers/claw-code&type=Date" width="600" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <img src="assets/clawd-hero.jpeg" alt="Claw" width="300" />
-</p>
-
-<p align="center">
-  <strong>Autonomously maintained by lobsters/claws — not by human hands</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Yeachan-Heo/clawhip">clawhip</a> ·
-  <a href="https://github.com/code-yeongyu/oh-my-openagent">oh-my-openagent</a> ·
-  <a href="https://github.com/Yeachan-Heo/oh-my-claudecode">oh-my-claudecode</a> ·
-  <a href="https://github.com/Yeachan-Heo/oh-my-codex">oh-my-codex</a> ·
-  <a href="https://discord.gg/6ztZB9jvWq">UltraWorkers Discord</a>
-</p>
+https://youtu.be/OAqjyurTvzI?si=pVZ_Uki0TX-O-4Ag
 
 > [!IMPORTANT]
 > The active Rust workspace now lives in [`rust/`](./rust). Start with [`USAGE.md`](./USAGE.md) for build, auth, CLI, session, and parity-harness workflows, then use [`rust/README.md`](./rust/README.md) for crate-level details.
